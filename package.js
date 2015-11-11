@@ -34,6 +34,7 @@ Package.on_use(function (api) {
     'community-services/twitch.js',
     'community-services/soundcloud.js',
     'community-services/slack.js',
+    'community-services/stripe.js',
     'community-services/angellist.js',
     'community-services/spotify.js'
   ], 'client');
